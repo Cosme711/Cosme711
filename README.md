@@ -1,6 +1,9 @@
-### Hi there 👋
+### Presentation 👋
+
+<h1 align="center">I'm Cosme, a French web developer </h1>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=Cosme711&show_icons=true&count_private=true" alt="Cosme711" /></p>
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cosme711&layout=compact" alt="malatini42" /> </p>
 
 <!--
 **Cosme711/Cosme711** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
